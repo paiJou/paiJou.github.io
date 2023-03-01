@@ -1,2 +1,2 @@
 # sgt
-Exercises for SGT course
+Exercises for SGT course, EPFL, March 2023
